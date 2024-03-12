@@ -1,7 +1,7 @@
-# Fundamentos-IA
+# Fundamentos de Inteligência Artificial (IA)
 
 ## 📒 Descrição
-Fundamentos de Inteligência Artificial (IA) 
+Fundamentos de Inteligência Artificial (IA), projeto utilizando IAs generativas seus recursos visuais e audio e comparando sua eficência em novas criações. 
 
 ## 🤖 Tecnologias Utilizadas
 Leonard IA (anime de programmer woman)
