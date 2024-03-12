@@ -16,5 +16,14 @@ No Hey Gen acrescentei os recursos das outras IAS Generativas em vídeo.
 ## 🚀 Resultados
 Ficou melhor que o esperado, pois a Inteligência Artificial colocou a voz no desenho na parede e não na programmer, isso destacou como ela seria utilizada.
 
+
+
+https://github.com/Lolisdu/Fundamentos-IA/assets/101465084/12e53e28-c382-4272-86d5-49ad40937f37
+
+
+
 ## 💭 Reflexão (Opcional)
 Sou uma entusiasta em IA e acredito que essas ferramentas serão cada vez mais utilizadas para aprimorar atividade humana.
+
+
+
